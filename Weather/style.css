@@ -1,0 +1,77 @@
+header {
+  background-color:  rgba(228, 172, 172, 0.363));
+  text-align: center;
+  justify-content: center;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 50px;
+  letter-spacing: 1px;
+  font-family:Copperplate;
+}
+body {
+  font-family: "montserrat", Lucida Handwriting;
+  background-image: url(https://wallpaperaccess.com/full/6119400.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: top center;
+  color: black ;
+
+}
+
+
+#main {
+  display: grid;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.col-md-4 {
+  margin-top: 20px;
+}
+
+.col-12col-md-8 {
+  color: rgb(165, 165, 204);
+  height: 300px;
+}
+h1 {
+  justify-content: center;
+  text-align: center;
+  color:rgb(233, 21, 14);
+}
+h2{
+  color:rgb(8, 8, 8);
+  font-family:Garamond;
+}
+.specs {
+  margin-top: 20px;
+  display:block;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.363);
+  width: 400px;
+  border-style:outset ;
+}
+.cities {
+  display: block;
+  font-family:Courier New;
+  margin: 5px;
+  border-style:outset;
+  background-color: rgba(14, 231, 87, 0.363);
+  
+}
+.card {
+  background-color: rgba(207, 222, 226, 0.63);
+  width: 20%;
+  height: auto;
+  float: right;
+  margin: 10px;
+  color: black;
+  font-size: 18px;
+  padding: 20px;
+}
+h5 {
+  color:rgb(17, 32, 238);
+  font-family:Copperplate;
+  position: sticky;
+}
